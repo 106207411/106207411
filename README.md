@@ -18,6 +18,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=106207411&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true)
 
-[![LJO's GitHub stats](https://github-readme-stats.vercel.app/api?username=106207411&show_icons=true&locale=en&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D))]
+![LJO's GitHub stats](https://github-readme-stats.vercel.app/api?username=106207411&show_icons=true&locale=en&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=106207411&theme=tokyonight&hide_border=true)
