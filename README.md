@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=106207411&label=Profile%20views&color=0e75b6&style=flat" alt="106207411" /> </p>
 
-**💻 Software Engineer Intern @Acer, Inc.**</br>
-**⛅ AWS Educate Cloud Ambassador Lead, Technical Support @Amazon Web Services**</br>
+**💻 Cloud Engineer Intern @AWS**</br>
 
 <div align=left> 
   <img src="https://github-stats-alpha.vercel.app/api?username=106207411&&cc=0a0f0b&tc=37BCF2&ic=e4e2e2">
